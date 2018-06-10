@@ -1,7 +1,14 @@
 # Creative Hacking SS 18
 
+Dokumente zum Seminar Creative Hacking an der ABK Stuttgart, Sommersemester 2018.
 
-## Code
+*Diese Sammlung wird über den Kurs hinweg erweitert.*
+
+---
+
+## Codeschnipsel
+
+Ihr findet zusätzlich noch zwei Beispiele, mit denen ihr erstmal rumexperimentieren könnt (simpleDCtime.ino, simpleDCentstop.ino).
 
 ### Wichtige Befehle
 
@@ -46,15 +53,14 @@ vorwärts | HIGH | LOW
 rückwärts | LOW | HIGH
 stop | LOW | LOW
 
-
-```
-```
-
-## Bauteile
-
-https://www.arduino.cc/en/uploads/Tutorial/KeyboardMessage_2_bb.png
+---
 
 ## Linksammlung
 
+Hier werde ich über Zeit hinweg interessante Links sammeln
+
 Arduino if...else -> [Link](https://www.arduino.cc/reference/en/language/structure/control-structure/if/)
 
+L298N (H-Brücke anschließen) -> [Link](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
+
+Schalter anschließen -> [Link](https://www.arduino.cc/en/Tutorial/Button)
