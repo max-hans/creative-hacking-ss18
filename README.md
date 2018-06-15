@@ -64,3 +64,5 @@ Arduino if...else -> [Link](https://www.arduino.cc/reference/en/language/structu
 L298N (H-Brücke anschließen) -> [Link](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
 
 Schalter anschließen -> [Link](https://www.arduino.cc/en/Tutorial/Button)
+
+Potentiometer nutzen -> [Link](https://www.arduino.cc/en/tutorial/potentiometer)
